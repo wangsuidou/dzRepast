@@ -53,7 +53,7 @@ section{display: block;width: 100%}
 .rmkc .kc-r h2{font-size: 16px; margin-top: 20px; text-indent: 15px;}
 .rmkc .kc-r p{font-size: 14px; margin-top: 10px; text-indent: 15px;}
 .rmkc .kc-r img{width: 370px; height: 230px; margin: 15px 15px 10px;}
-.rmkc .kc-r a{float: left; margin: 15px; height: 46px; color: #fff; background: #e43c3c; width: 156px; font-size: 16px; line-height: 46px; text-align: center; border-radius: 10px;}
+.rmkc .kc-r a{float: left; margin: 15px; height: 46px; color: #fff; background: #ff6c00; width: 156px; font-size: 16px; line-height: 46px; text-align: center; border-radius: 10px;}
 .rmkc .kc-r a:first-of-type{margin-right: 42px}
 .rmkc .kc-r:hover{display: block!important;}
 
@@ -64,7 +64,7 @@ section{display: block;width: 100%}
 .i5 ul{padding-left:50px;}
 .i5 li{float: left;height: 140px;background: #fff;}
 .i5 div{font-size: 36px;font-weight: bold;line-height: 36px;text-indent: 70px;margin-top:40px;}
-.i5 p{font-size: 16px; float: left;text-align: center;width: 240px;}
+.i5 p{font-size: 16px; float: left;text-align: center;width: 180px;}
 .i5 img{float: left;margin: 30px 0 0 69px;}
 .i5 .i5-1,.i5 .i5-3{width: 338px}
 .i5 .i5-2{width: 420px;}
@@ -225,3 +225,6 @@ section{display: block;width: 100%}
 .xf-top a{color:#fff}
 
 
+.triangle_border_up{
+    
+}
