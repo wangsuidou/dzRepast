@@ -210,21 +210,17 @@ section{display: block;width: 100%}
 
 .banquan p{text-align: center;color:#fff;line-height: 50px}
 
-.xuanfu{display: none;position: fixed; right: 160px;top: 30%; width: 46px; height: 190px;z-index:1000}
+.xuanfu{display: none;position: fixed; right: 10px;top: 30%; width: 46px; height: 190px;z-index:1000}
 .xuanfu li{height: 46px;float: right;}
-.xf-a{display: none}
+.xf-a{display: none;position: relative}
 .xf-nav{margin-bottom: 2px;width: 46px}
-.xf-nav1{background: #282a2c url(/templets/default/images/xuanfu01.png)no-repeat; background-position-x: 8px; background-position-y: 8px;}
-.xf-nav2{background: #282a2c url(/templets/default/images/xuanfu02.png)no-repeat; background-position-x: 8px; background-position-y: 8px;}
-.xf-nav3{background: #282a2c url(/templets/default/images/xuanfu03.png)no-repeat; background-position-x: 8px; background-position-y: 8px;}
+.xf-nav1{background: #282a2c url(../images/xuanfu01.png)no-repeat; background-position-x: 4px; background-position-y: 4px;}
+.xf-nav2{background: #282a2c url(../images/xuanfu02.png)no-repeat; background-position-x: 4px; background-position-y: 4px;}
+.xf-nav3{background: #282a2c url(../images/xuanfu03.png)no-repeat; background-position-x: 4px; background-position-y: 4px;}
 
 .xf-nav:hover{background-color:#ff6c00;width: 130px;background-position-x:90px  }
 .xf-nav:hover .xf-a{display: block;}
-.xuanfu p{font-size: 18px;color: #fff;line-height: 46px;text-indent: 10px}
-.xf-top{ width: 46px;background: #282a2c; letter-spacing: 2px; text-align: center; line-height: 23px;}
+.xuanfu p{font-size: 18px;color: #fff;line-height: 46px;text-indent: 10px;background: #0e89f3;position: absolute;right: 46px;padding: 0 10px;min-width: 100px;}
+.xf-top{ width: 46px;background: #282a2c url(../images/xuanfu04.png)no-repeat; background-position-x: 4px; background-position-y: 4px;}
 .xf-top a{color:#fff}
 
-
-.triangle_border_up{
-    
-}
