@@ -434,7 +434,7 @@ div.stretchy-wrapper > div {
   position: absolute;
   top: 0; bottom: 0; left: 0; right: 0;
   text-align: center;
-} 
+/* } 
 
 .xuanfu{display: none;position: fixed; right: 160px;top: 30%; width: 46px; height: 190px;z-index:1000}
 .xuanfu li{height: 46px;float: right;}
@@ -448,4 +448,4 @@ div.stretchy-wrapper > div {
 .xf-nav:hover .xf-a{display: block;}
 .xuanfu p{font-size: 18px;color: #fff;line-height: 46px;text-indent: 10px}
 .xf-top{ width: 46px;background: #282a2c; letter-spacing: 2px; text-align: center; line-height: 23px;}
-.xf-top a{color:#fff}
+.xf-top a{color:#fff} */
